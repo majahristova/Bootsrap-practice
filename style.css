@@ -1,0 +1,20 @@
+.carousel-caption h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel-caption p{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    font-family: Arial, Helvetica, 
+}
+
+.carousel-inner {
+        width: 100%; 
+        max-width: 1500px;
+        height: 600px;
+
+}
